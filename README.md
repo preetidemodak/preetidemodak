@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Preeti De Modak
+#  Hi 👋, I'm Preeti De Modak
 **A Aspiring Full-Stack Developer || Software Engineering ||  Java || Web Development**
 
 Email Me 👉 ✉️ **preetodemodak@gmail.com** 
